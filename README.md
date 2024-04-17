@@ -50,3 +50,6 @@ Alertas. | Deve haver um sistema que detecte quando alguma das condições meteo
 2. **Criação de alertas** : A lógica do sistema de alerta pode ser complicada, principalmente ao determinar quando e como devem ser emitidos.
 
 3. **Gráficos personalizados** : A geração de gráficos personalizados pode envolver muitas nuances e detalhes.
+
+---
+by: Gustavo Lagares
